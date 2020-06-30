@@ -1,0 +1,9 @@
+.menu {
+    display: inline;
+    margin: 10px;
+    margin-right: 20px;
+    margin-left: 0;
+    padding: 10px;
+    border: 2px solid #ddf;
+    background-color: #eef;
+}
